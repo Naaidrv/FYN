@@ -1,0 +1,87 @@
+.menu{background:#fff !important;}
+
+.btnTemaFP img{filter:invert(35%) sepia(6%) saturate(4926%) hue-rotate(173deg) brightness(43%) contrast(87%);}
+.btnTemaFP a{color:#356094;}
+.paso4ColorLetraFP{color:#000 !important;}
+#ContentPlaceHolder1_lblTipoActivacion,#ContentPlaceHolder1_lblCantidadProductosSelec{color:#000!important;}
+#TerminosCondiciones a{color:#000!important;}
+.opcionesMenu .formatoBoton, .comprarMenu{padding:5px 25px 5px 25px!important;border-radius:45px!important;min-width:.5rem;background-color:#FFF74B;color:#999999;border:1px solid #999999;text-decoration:underline;}
+.comprar{background-color:#57B865 !important;text-decoration:none !important;border:none !important;}
+.comprar .opcionMenu{color:white !important;}
+.comprarMenu{float:right;margin-right:-3.4rem;margin-top:.5rem;}
+.opcionesMenu .formatoBoton .opcionMenu{margin:0!important;padding:0!important;}
+.opcionesMenu .formatoBotonContorno{padding:.3rem .2rem;border-radius:45px;min-width:.5rem;background-color:white;color:#346797;border:1px solid #346797;margin-right:.7rem;}
+.ligaMicrositio .opcionMenu{color:#fff !important;}
+.anteponeMicro{color:#FFF !important;padding-right:.5rem;}
+.anteponeMicro:hover{text-decoration:none !important;}
+.opcionesMenu .formatoBoton span,.opcionMenu,.opcionesMenu .formatoBotonContorno span,.opcionesMenu a,.opcionesMenu span{font-size:.9rem!important;}
+.master input[type=submit],.formato-file:before, .master input[type=button]{background-color:#FBC241;color:black;}
+
+.opcionesMenu .formatoBotonContorno,.formatoBoton.comprar .opcionMenu{font-size:.9rem !important;}
+.opcionesMenu .formatoBotonContorno:hover .opcionMenu{color:white;}
+.comprar:hover {background-color:#EAE156;}
+.opcionMenu{color:#706f6f;margin:.2rem 1.3rem;padding: 0rem .5rem;}
+.opcionMicrositio{background:#FFF;padding:5px 5px 5px 5px!important;border-radius:45px;margin:0rem .5rem;border:1px solid #5EB0FF;}
+.opcionMicrositio span{color:#5EB0FF;}
+
+.titulo span{color:#000 !important;}
+#ContentPlaceHolder1_upDatosFiscales p span:first-child{color:#000!important;}
+
+.mitadFormasPago input[type=submit]{color:#ff0000 !important;}
+.contFormasPago .renglon.centro .renglon.etiquetaNormal{color:#000 !important;}
+
+.paso4.renglon.titulo.border-bottom.border-top.font-1.posicion-uno.padArr-0-5,.paso4.renglon.titulo.border-bottom.border-top.font-1.posicion-uno.padArr-0-5 span,.subtitulo.Lato-LightItalic.font4,.paso4.renglon.titulo.border-bottom.font-1.posicion-tres,.paso4.renglon.titulo.border-bottom.font-1.posicion-tres span{color:#000!important;}
+.paso4ColorFP{color:#000 !important;}
+.contieneCheck .marca:after{border: solid #000;}
+
+.font13{color:#000;} 
+.back10{background-color:#356094;}
+.btnFP{color:#356094 !important;}
+/*.gridFP tbody tr:nth-child(2) td select{color:white !important;}*/
+
+.gridFP tbody tr:nth-child(2) td select, .gridFP tbody tr:last-child td select{color:#000  !important;}
+.gridFP tbody tr:nth-child(2), .gridFP tbody tr:last-child{background:#EDEEED !important;}
+.gridFP tbody tr:nth-child(2) td, .gridFP tbody tr:last-child td{color:#000 !important;}
+.gridFP tbody tr td, .gridFP tbody tr td span{font-family:'Ubuntu-Bold' !important;}
+
+
+#ContentPlaceHolder1_upFormas .renglon.mitadFormasPago.padArr-1.padAba-0-5{background:transparent !important;}
+.fondoLoader{background-color:#000 !important;}
+
+.subNodoTema div input{background-color:#356094 !important;}
+.subNodoTema div input.temaSeleccionado{background-color:#57B865 !important;}
+
+.login{background-color:#F0F0F0;}
+.btnTemaLoginFP a img{filter:invert(18%) sepia(60%) saturate(538%) hue-rotate(182deg) brightness(46%) contrast(169%) !important;}
+.btnTemaLoginFP a span{color:#3c6090 !important;}
+
+/*Estilos para AltaPrecompra*/
+.logoAltaP img{filter:invert(88%)sepia(8%)saturate(6%)hue-rotate(352deg)brightness(500%)contrast(89%) !important;}
+.headerPreCompra .contenedor-1-5 .renglon.padArr-0-8 .mitad.columnas #imgLogo{filter: invert(88%)sepia(8%)saturate(6%)hue-rotate(352deg)brightness(500%)contrast(89%) !important;}
+.headerPreCompra{background-color:#356094 !important;}
+.headerPreCompra div div span, #headerAltaP .contenedor-1-5 .mitad.columnas.derecha.padArr-0-8.padAba-0-8 a{color:white !important;}
+.tituloContenedor{background-color:#346094 !important;border-top-left-radius:0 !important;border-top-right-radius:0 !important;}
+.bordeado{border-radius:0 !important;}
+.tituloNModal span, .tituloNModal .cierraModal, .contenidoNModal span{color:#000 !important;}
+.btnApSeleccionado{background-color:#356094 !important;color:white !important;}
+.login .btnLogin{margin-right:1rem;}
+#headerAltaP, #headerAltaP a{color:black !important;}
+
+.gridAP{background-color:#FFF !important;}
+.gridAP a, .gridAP tbody tr td{color:#000 !important;}
+.gridAP tbody tr:nth-child(odd) td{background-color:#EBEFF4;}
+.gridAP tbody tr th{background-color:#346094 !important;color:white !important;}
+/*.gridAP tbody tr:first-child td,.grid tbody tr:first-child th, .grid tbody tr td, .grid tbody tr td:last-child{border-right:1px solid #D1D1D1;}*/
+/*.gridAP tbody tr:first-child td, .grid tbody tr:first-child th{background-color:#212121 !important;}*/
+.gridAP tbody tr:last-child{border-bottom:1px solid #212121;}
+.gridAP tbody tr:last-child td{border-bottom:1px solid #D1D1D1;}
+.gridAP tbody tr:last-child table tbody tr td{background-color:transparent !important;border-right:none !important;}
+
+.contornoModalAP{border:1px solid #346094 !important;color:#346094 !important;}
+.contornoModalAP .labelRequerido, .contornoModalAP .label, .consultaOrdenCompra, .consultaOrdenCompra .labelRequerido{color:#346094 !important;}
+#ContentPlaceHolder1_btnCancelar{background-color:#CCCECD !important;}
+
+@media(max-width:950px){
+    .opcionesMenu{background: #FBC241;}
+    /*.opcionesMenu .formatoBotonContorno:hover,.opcionMenu:hover{background:#356094;}*/    
+}
